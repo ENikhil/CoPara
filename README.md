@@ -10,5 +10,5 @@ The data folder has our dataset on a paragraph aligned level (Paragraphs.csv tha
 - Sentences: Number of sentences in the paragraph
 - Words: Number of words in the paragraph 
 
-We also make the best finetuned NMT model checkpoints here: 
+We also make available, the best finetuned NMT model checkpoints here: 
 https://drive.google.com/drive/folders/1WtilqTLflkgxdz5hHAVae1RHQQN-vfty?usp=sharing
