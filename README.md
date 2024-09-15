@@ -12,3 +12,18 @@ The data folder has our dataset on a paragraph aligned level (Paragraphs.csv tha
 
 We also make available, the best finetuned NMT model checkpoints here: 
 https://drive.google.com/drive/folders/1WtilqTLflkgxdz5hHAVae1RHQQN-vfty?usp=sharing
+
+
+## Citation
+>@inproceedings{e-etal-2023-copara,
+>    title = "{C}o{P}ara: The First {D}ravidian Paragraph-level n-way Aligned Corpus",
+>    author = "E, Nikhil and Choudhary, Mukund and Mamidi, Radhika",
+>    editor = "Chakravarthi, Bharathi R. and Priyadharshini, Ruba and M, Anand Kumar and Thavareesan, Sajeetha and Sherly, Elizabeth",
+>    booktitle = "Proceedings of the Third Workshop on Speech and Language Technologies for Dravidian Languages",
+>    month = sep,
+>    year = "2023",
+>    address = "Varna, Bulgaria",
+>    publisher = "INCOMA Ltd., Shoumen, Bulgaria",
+>    url = "https://aclanthology.org/2023.dravidianlangtech-1.12",
+>    pages = "88--96",
+>}
